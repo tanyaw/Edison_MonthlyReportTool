@@ -44,7 +44,7 @@ User inputs are sent using the POST method to the COMPARE.PHP file.
 The following identifers are used for:
 	(1) $email, $position - User verification 
 	(2) $groupName, $monthName, $yearNum - Identifiers to store/retrieve records in database
---------------------------------------------------------------------->
+<--------------------------------------------------------------------->
 <form class="input_form" action="compare.php" method="post">
 	<fieldset class="round">
 		<h2>Create Monthly Report <span class="error">* <em>required field</em></span></h2>
